@@ -36,26 +36,6 @@ pip install tensorflow keras numpy matplotlib
 
 ---
 
-## 💻 **How to Run**
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/MNIST-Classification.git
-   cd MNIST-Classification
-   ```
-
-2. **Open the Jupyter Notebook:**
-   ```bash
-   jupyter notebook imageclass.ipynb
-   ```
-
-3. **Train the models:**
-   - Run all the cells to train both the ANN and CNN models.
-   - Evaluate their accuracy and loss.
-
-4. **Check predictions and visualizations** inside the notebook.
-
----
 
 ## 📊 **Key Observations**
 
